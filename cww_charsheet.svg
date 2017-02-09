@@ -37,11 +37,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="263.1536"
-     inkscape:cy="608.21519"
+     inkscape:zoom="2.8"
+     inkscape:cx="329.63901"
+     inkscape:cy="482.66931"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3021,14 +3021,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="216.17265"
+       x="163.31551"
        y="565.3302"
        id="text5097"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5099"
-         x="216.17265"
-         y="565.3302">Geld:     A    G    S    K</tspan></text>
+         x="163.31551"
+         y="565.3302">Geld:         A       G       S       K</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
