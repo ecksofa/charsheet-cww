@@ -38,10 +38,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="469.59087"
-     inkscape:cy="698.72464"
+     inkscape:cx="584.59087"
+     inkscape:cy="198.01035"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
@@ -1078,7 +1078,7 @@
          sodipodi:role="line"
          id="tspan4692"
          x="539.03088"
-         y="454.69833">Ges &amp; GES</tspan></text>
+         y="454.69833">GES &amp; GES</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.74945605;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4333-1-5-2"
@@ -1114,7 +1114,7 @@
          sodipodi:role="line"
          id="tspan4692-1"
          x="539.43372"
-         y="768.44836">Ges &amp; INT</tspan></text>
+         y="768.44836">GES &amp; INT</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.74945605;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4333-1-5-24"
@@ -1150,7 +1150,7 @@
          sodipodi:role="line"
          id="tspan4692-19"
          x="540.29431"
-         y="851.01416">Ges &amp; WIS</tspan></text>
+         y="851.01416">GES &amp; WIS</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.74945605;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4333-1-5-7"
@@ -1186,7 +1186,7 @@
          sodipodi:role="line"
          id="tspan4692-7"
          x="540.16003"
-         y="900.55359">Ges &amp; INU</tspan></text>
+         y="900.55359">GES &amp; INU</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.74945605;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4333-1-5-75"
@@ -3016,6 +3016,12 @@
        height="12.749092"
        x="671.55347"
        y="1005.8091" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 717.39169,660.28442 0,10.10152 -7.82868,-5.05076 z"
+       id="path4747-3-62-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
   <g
      inkscape:groupmode="layer"
